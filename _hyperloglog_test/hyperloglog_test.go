@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liangyaopei/hyper"
+	"github.com/jmatom/hyper"
 )
 
 func TestHyperLogLog_Add(t *testing.T) {
