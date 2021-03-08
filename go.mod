@@ -1,4 +1,4 @@
-module github.com/liangyaopei/hyper
+module github.com/jmatom/hyper
 
 go 1.14
 

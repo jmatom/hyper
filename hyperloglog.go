@@ -22,6 +22,8 @@ type hyperLogLog struct {
 	concurrent bool
 }
 
+type HyperLogLog = hyperLogLog
+
 // New returns a new hyperLogLog
 // registers size increases proportionally
 // to precision
